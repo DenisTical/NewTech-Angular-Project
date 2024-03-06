@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "project-angular-tdc": {
+      "hosting": {
+        "Project-Angular": [
+          "project-angular-tdc"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "project-angular-tdc"
+  }
+}
